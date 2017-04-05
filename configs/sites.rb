@@ -1,0 +1,4 @@
+SITES = %w(
+  tcad
+  xkcn
+)
