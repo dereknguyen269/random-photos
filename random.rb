@@ -5,8 +5,8 @@ class Random
     page = rand PAGE_NUMBER
     site = AT_CSS[SITES.sample]
     url = "#{site[:url]}#{page}"
-    work = working_url? (url)
-    return run unless work
+    exists = working_url? (url)
+    return run unless exists
     RandomPhotos::Crawler.new(url, site[:selector]).call
   end
 end
