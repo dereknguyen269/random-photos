@@ -1,8 +1,13 @@
-# Random Photos
+Random Photos
+=====================
 
-This is a ruby application. It will help you get a radom photo with your config.
+[![Code Climate](https://codeclimate.com/github/minhquan4080/random-photos/badges/gpa.svg)](https://codeclimate.com/github/minhquan4080/random-photos)
+[![Test Coverage](https://codeclimate.com/github/minhquan4080/random-photos/badges/coverage.svg)](https://codeclimate.com/github/minhquan4080/random-photos/coverage)
+[![Issue Count](https://codeclimate.com/github/minhquan4080/random-photos/badges/issue_count.svg)](https://codeclimate.com/github/minhquan4080/random-photos)
 
 ## Introduction
+
+This is a ruby application. It will help you get a radom photo with your config.
 
 **Random Photos** is using `nokogiri` gem. You can see more about it at [nokogiri](https://github.com/sparklemotion/nokogiri)
 
