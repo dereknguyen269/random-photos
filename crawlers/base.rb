@@ -1,6 +1,8 @@
 require 'rubygems'
 require 'nokogiri'
 
+require_relative '../dependencies'
+
 module RandomPhotos
   class BaseCrawler
     def initialize(path, at_css)
