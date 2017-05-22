@@ -1,0 +1,1 @@
+require 'colorized_string'

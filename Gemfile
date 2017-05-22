@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 
 gem 'nokogiri', '>= 1.6.8'
 gem 'launchy', '~> 2.4', '>= 2.4.3'
+gem 'colorize'
 
 group :development do
   gem 'spring'

@@ -1,5 +1,6 @@
 require 'launchy'
 
+require_relative 'colorized'
 require_relative 'working_url'
 require_relative 'configs/sites'
 require_relative 'configs/pagination'
